@@ -1,0 +1,2 @@
+# StockPredictionAI
+Codico Modelo AI 
